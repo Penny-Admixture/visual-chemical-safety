@@ -13,7 +13,7 @@ Make chemical safety information accessible **independent of**:
 
 ## 🚀 Live Demo
 
-**[View Live Application →](https://YOUR-APP-NAME.streamlit.app)**
+**[View Live Application →](https://visual-chemical-safety.streamlit.app/)**
 
 ## ✨ Features
 
